@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="core">
+    <CLASSES>
+      <root url="jar://E:/Soft Install/processing-2.2.1/core/library/core.jar!/" />
+      <root url="jar://E:/Soft Install/processing-2.2.1/modes/java/libraries/net/library/net.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
